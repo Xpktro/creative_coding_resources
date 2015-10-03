@@ -48,6 +48,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [ChuCK](http://chuck.cs.princeton.edu/) - Lenguaje de programación orientado al análisis, síntesis y generación de sonido en tiempo real.
 * [Csound](http://csound.github.io/) - Una herramienta para la computación de música y sonido. 
 * [Composición musical con redes neuronales recurrentes](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks) - Un interesante artículo sobre la generación de música a partir de una red neuronal.
+* [Generador de bytebeats](https://wurstcaptures.untergrund.net/music/) - Una herramienta online para probar y crear bytebeats.
 * [Overtone](http://overtone.github.io/) - Entorno para la exploración musical que usa SuperCollider como motor de audio y Clojure como lenguaje de programación.
 * [Sonic Pi](http://sonic-pi.net/) - Sintetizador de código escrito en ruby orientado a la codificación en vivo. 
 * [SuperCollider](http://supercollider.github.io/) -  Un lenguaje de programación para síntesis de audio en tiempo real y composición algorítmica.
@@ -77,6 +78,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 * [Babylon.js](http://www.babylonjs.com/) - Un motor 3d basado en WebGL y Javascript.
 * [PlayCanvas](https://playcanvas.com/) - Motor de juegos y experiencias interactivas 3D con HTML5 y Javascript.
+* [ShaderFrog](http://shaderfrog.com/) - Herramienta de creación y mezcla de shaders para WebGL.
 * [Structure Synth](http://structuresynth.sourceforge.net/) - Herramienta para la generación de estructuras tridimensionales cuyo lenguaje de programación está basado en Context Free.
 * [three.js](http://threejs.org/) - Una biblioteca para facilitar el trabajo 3D con WebGL.
 
