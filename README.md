@@ -31,7 +31,9 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [NodeBox](https://www.nodebox.net/) - Generación de imágenes a través de un lenguaje de programación visual.
 * [OpenCV](http://opencv.org/) - Biblioteca con cientos de funciones útiles para el análisis de imágenes orientado a la Visión Computacional (Computer Vision).
 * [Paper.js](http://paperjs.org/) - Framework de Javascript para el dibujo de imágenes vectoriales bidimensionales.
+* [Printing Code](http://printingcode.runemadsen.com/examples/) - Apuntes de un curso de gráficos por computador mediante el uso de Rune.
 * [Raphaël](http://raphaeljs.com/) - Biblioteca de Javascript para el dibujo de imágenes vectoriales.
+* [Rune.js](http://runemadsen.github.io/rune.js/) - Una biblioteca de javascript para sistemas de dibujo vectorial en el navegador.
 * [The Nature of Code](http://natureofcode.com/) - Libro gratuito de Daniel Shiffman que muestra cómo se pueden replicar estructuras y comportamientos encontrados en la naturaleza a través de la programación. 
 
 
@@ -40,6 +42,9 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 ### <a name="sound">Sonido</a>
 
+
+* [Análisis profundo de los programas musicales de una línea](http://countercomplex.blogspot.pe/2011/10/some-deep-analysis-of-one-line-music.html) - Publicación de viznut, el pionero de los bytebeats sobre cómo estos funcionan.
+* [Bytebeats](https://www.youtube.com/watch?v=vCEUyx-SxPw) - Charla en video sobre el principio detrás de los bytebeats: pequeños programas cuya salida, al ser redirigida a un dispositivo de sonido, pueden producir melodías muy interesantes.
 * [ChuCK](http://chuck.cs.princeton.edu/) - Lenguaje de programación orientado al análisis, síntesis y generación de sonido en tiempo real.
 * [Csound](http://csound.github.io/) - Una herramienta para la computación de música y sonido. 
 * [Composición musical con redes neuronales recurrentes](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks) - Un interesante artículo sobre la generación de música a partir de una red neuronal.
