@@ -100,8 +100,8 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 ### <a name="livecoding">Live Coding</a>
 
-* [Pineal](https://github.com/edne/pineal) - Un motor para live coding gráfico y sonoro, escrito en hy, un lisp-dialecto de Python.
 * [LigthTable](http://lighttable.com/) - Un editor de código con capacidades de edición en vivo.
+* [Pineal](https://github.com/edne/pineal) - Un motor para live coding gráfico y sonoro, escrito en hy, un lisp-dialecto de Python.
 * [TOPLAP](http://toplap.org/) - Comunidad y directorio de proyectos de live coding.
 
 
@@ -110,8 +110,8 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 ### <a name="tools">Herramientas</a>
 
-* [NTLK](http://www.nltk.org/) - Una biblioteca para el trabajo y análisis de lenguaje natural en Python. 
 * [Mashape](https://www.mashape.com/) - Directorio y mercado de Servicios Web de todo tipo.
+* [NTLK](http://www.nltk.org/) - Una biblioteca para el trabajo y análisis de lenguaje natural en Python. 
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -119,9 +119,11 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 ### <a name="websites">Websites de Interés</a>
 
-* [Creative Applications Network](http://www.creativeapplications.net/) - Directorio y Magazine de aplicaciones creativas.
-* [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de interés de programación creativa y proyectos artísticos.
 * [cabbi.bo](http://cabbi.bo/) - Directorio de experiencias multimedios.
+* [Creative Applications Network](http://www.creativeapplications.net/) - Directorio y Magazine de aplicaciones creativas.
+interés de programación creativa y proyectos artísticos.
+* [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de 
+* [Introducción a las Redes Neuronales Recurrentes](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Una explicación un poco formal pero entendible sobre la naturaleza y el propósito de las redes neuronales recurrentes.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
