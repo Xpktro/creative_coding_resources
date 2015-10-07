@@ -77,6 +77,8 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 ### <a name="3d">3D</a>
 
 * [Babylon.js](http://www.babylonjs.com/) - Un motor 3d basado en WebGL y Javascript.
+* [OGS.JS](http://osgjs.org/) - Un framework de WebGL basado en OpenSceneGraph. Facilita la interacción con OpenGL en Javascript con un conjunto de herramientas de gusto similar a OSG.
+* [OpenSceneGraph](http://www.openscenegraph.org/) - Es un conjunto de herramientas abierto y de alta performance para 3D (OpenGL) en C++.
 * [PlayCanvas](https://playcanvas.com/) - Motor de juegos y experiencias interactivas 3D con HTML5 y Javascript.
 * [ShaderFrog](http://shaderfrog.com/) - Herramienta de creación y mezcla de shaders para WebGL.
 * [Structure Synth](http://structuresynth.sourceforge.net/) - Herramienta para la generación de estructuras tridimensionales cuyo lenguaje de programación está basado en Context Free.
