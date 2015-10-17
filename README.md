@@ -93,6 +93,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Adafruit](https://www.adafruit.com/) - Empresa dedicada a la venta de dispositivos de OpenHardware y similares, cuenta también con una comunidad de DIYers bastante activa.
 * [Arduino](https://www.arduino.cc/) - Plataforma de dispositivos electrónicos de fuente abierta y de fácil acceso a principiantes.
 * [BeagleBone](http://beagleboard.org/bone) - Un computador en miniatura con entradas y salidas analógicas/digitales para la realización de proyectos de hardware.
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Una motor de conversaciones basado en Machine Learning e independiente del idioma.
 * [MicroPython](https://micropython.org/) - Implementación de Python3 diseñada para micro-controladores.
 * [Raspberry-Pi](https://www.raspberrypi.org/) - Computador en miniatura con salidas y entradas digitales para la realización de proyectos de hardware.
 
