@@ -26,6 +26,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 ### <a name="graphics">Gráficos</a>
 
 * [Context Free](http://www.contextfreeart.org/) - Herramienta de generación de gráficos en base a un lenguaje propio con forma de gramática libre de contexto.
+* [Creative Scala](http://underscore.io/training/courses/creative-scala/) - Libro de introducción a Scala y la programación funcional a través del uso de Doodle, una biblioteca de gráficos.
 * [Deep Dream](http://ryankennedy.io/running-the-deep-dream/) - Artículo donde se explica cómo descargar y utillizar una máquina virtual de Docker para probar el algoritmo Deep Dream de interpolación de imágenes.
 * [Neural Artistic Style](https://github.com/andersbll/neural_artistic_style) - Implementación en Python de un algoritmo que reconoce el estilo gráfico de una imagen y lo aplica sobre otra.
 * [NodeBox](https://www.nodebox.net/) - Generación de imágenes a través de un lenguaje de programación visual.
