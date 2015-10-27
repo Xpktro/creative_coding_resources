@@ -124,6 +124,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 ### <a name="websites">Websites de Interés</a>
 
 * [cabbi.bo](http://cabbi.bo/) - Directorio de experiencias multimedios.
+* [CreativeJS](http://creativejs.com/) - Blog colectivo de artículos de interés sobre el uso de Javascript en aplicaciones creativas.
 * [Creative Applications Network](http://www.creativeapplications.net/) - Directorio y Magazine de aplicaciones creativas.
 interés de programación creativa y proyectos artísticos.
 * [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de 
