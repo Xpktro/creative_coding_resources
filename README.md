@@ -129,6 +129,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 interés de programación creativa y proyectos artísticos.
 * [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de 
 * [Introducción a las Redes Neuronales Recurrentes](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Una explicación un poco formal pero entendible sobre la naturaleza y el propósito de las redes neuronales recurrentes.
+* [Tutorial de ML/NLP con Python](http://www.thoughtly.co/blog/category/mlnlp-tutorial-series/) - Una serie de posts por Thoughtly con fundamentos de Machine Learning a través del Procesamiento del Lenguaje Natural usando Python.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
