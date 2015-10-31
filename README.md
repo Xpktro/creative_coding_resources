@@ -128,6 +128,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [CreativeJS](http://creativejs.com/) - Blog colectivo de artículos de interés sobre el uso de Javascript en aplicaciones creativas.
 * [Creative Applications Network](http://www.creativeapplications.net/) - Directorio y Magazine de aplicaciones creativas.
 interés de programación creativa y proyectos artísticos.
+* [Generador de Planetas](http://www.dashrava.com/planets/) - Un generador de imágenes de planetas de baja resolución pero con resultados muy interesantes.
 * [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de 
 * [Introducción a las Redes Neuronales Recurrentes](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Una explicación un poco formal pero entendible sobre la naturaleza y el propósito de las redes neuronales recurrentes.
 * [Tutorial de ML/NLP con Python](http://www.thoughtly.co/blog/category/mlnlp-tutorial-series/) - Una serie de posts por Thoughtly con fundamentos de Machine Learning a través del Procesamiento del Lenguaje Natural usando Python.
