@@ -129,8 +129,9 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Creative Applications Network](http://www.creativeapplications.net/) - Directorio y Magazine de aplicaciones creativas.
 interés de programación creativa y proyectos artísticos.
 * [Generador de Planetas](http://www.dashrava.com/planets/) - Un generador de imágenes de planetas de baja resolución pero con resultados muy interesantes.
-* [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de 
+* [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de demos interesantes en la web.
 * [Introducción a las Redes Neuronales Recurrentes](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Una explicación un poco formal pero entendible sobre la naturaleza y el propósito de las redes neuronales recurrentes.
+* [Just a Reflektor](http://www.justareflektor.com/) - Video interactivo de Arcade Fire (se necesita un computador y un dispositivo móvil). Hace uso extensivo de WebGL, WebSockets y diversas APIs multimedia.
 * [Tutorial de ML/NLP con Python](http://www.thoughtly.co/blog/category/mlnlp-tutorial-series/) - Una serie de posts por Thoughtly con fundamentos de Machine Learning a través del Procesamiento del Lenguaje Natural usando Python.
 
 
