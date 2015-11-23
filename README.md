@@ -130,11 +130,13 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [CreativeJS](http://creativejs.com/) - Blog colectivo de artículos de interés sobre el uso de Javascript en aplicaciones creativas.
 * [Creative Applications Network](http://www.creativeapplications.net/) - Directorio y Magazine de aplicaciones creativas.
 interés de programación creativa y proyectos artísticos.
+* [fractal.js](http://xpktro.github.io/fractal.js/) - Experimento de generación del conjunto de Mandelbrot con el elemento canvas de HTML5. Se puede consultar el código fuente [aquí](https://github.com/Xpktro/fractal.js).
 * [Generador de Planetas](http://www.dashrava.com/planets/) - Un generador de imágenes de planetas de baja resolución pero con resultados muy interesantes.
 * [hacking for artists](http://hackingforartists.com/) - Directorio de enlaces de demos interesantes en la web.
 * [Hakim el Hattab](http://hakim.se/) - Webiste personal de Hakim, un programador frontend con bastante afinidad por la programación creativa. Lleno de demos interesantes sobre el Canvas API y manipulación avanzada del DOM.
 * [Introducción a las Redes Neuronales Recurrentes](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Una explicación un poco formal pero entendible sobre la naturaleza y el propósito de las redes neuronales recurrentes.
 * [Just a Reflektor](http://www.justareflektor.com/) - Video interactivo de Arcade Fire (se necesita un computador y un dispositivo móvil). Hace uso extensivo de WebGL, WebSockets y diversas APIs multimedia.
+* [Polygonal Logo Generator](http://xpktro.github.io/polygonal_logo_generator/) - Un demo de paper.js sobre el dibujo de polígonos aleatorios en una serie de puntos. Se puede consultar el código fuente [aquí](https://github.com/Xpktro/polygonal_logo_generator).
 * [Tutorial de ML/NLP con Python](http://www.thoughtly.co/blog/category/mlnlp-tutorial-series/) - Una serie de posts por Thoughtly con fundamentos de Machine Learning a través del Procesamiento del Lenguaje Natural usando Python.
 
 
