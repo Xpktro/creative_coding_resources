@@ -54,6 +54,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Overtone](http://overtone.github.io/) - Entorno para la exploración musical que usa SuperCollider como motor de audio y Clojure como lenguaje de programación.
 * [Sonic Pi](http://sonic-pi.net/) - Sintetizador de código escrito en ruby orientado a la codificación en vivo. 
 * [SuperCollider](http://supercollider.github.io/) -  Un lenguaje de programación para síntesis de audio en tiempo real y composición algorítmica.
+* [Tidal](http://tidal.lurk.org/) - Un lenguaje para producción de música algorítmica basado en Haskell, puede usarse como controlador MIDI y tiene un modo de sincronización por red para performances distribuidas.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -110,6 +111,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [LigthTable](http://lighttable.com/) - Un editor de código con capacidades de edición en vivo.
 * [Pineal](https://github.com/edne/pineal) - Un motor para live coding gráfico y sonoro, escrito en hy, un lisp-dialecto de Python.
 * [TOPLAP](http://toplap.org/) - Comunidad y directorio de proyectos de live coding.
+* [LiveCodeLab](http://livecodelab.net/play/) - Un entorno de live coding potenciado por WebGL que puede usarse desde el navegador.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
