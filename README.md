@@ -53,8 +53,10 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Haciendo música en el navegador](http://www.keithmcmillen.com/category/blog/tutorials/making-music-in-the-browser/) - Una serie de artículos de Keith McMillen sobre el uso del Web Audio API en aplicaciones musicales.
 * [Overtone](http://overtone.github.io/) - Entorno para la exploración musical que usa SuperCollider como motor de audio y Clojure como lenguaje de programación.
 * [Sonic Pi](http://sonic-pi.net/) - Sintetizador de código escrito en ruby orientado a la codificación en vivo. 
+* [subcollider.js](https://github.com/mohayonao/subcollider) - Un conjunto de funciones y prototipos de uso común en SuperCollider para Javascript. Usado normalmente en conjunto con timbre.js.
 * [SuperCollider](http://supercollider.github.io/) -  Un lenguaje de programación para síntesis de audio en tiempo real y composición algorítmica.
 * [Tidal](http://tidal.lurk.org/) - Un lenguaje para producción de música algorítmica basado en Haskell, puede usarse como controlador MIDI y tiene un modo de sincronización por red para performances distribuidas.
+* [timbre.js](http://mohayonao.github.io/timbre.js/) - Un framework moderno de análisis y síntesis de audio para Javascript basado en el uso del Web Audio API (e incluye un fallback de Flash).
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
