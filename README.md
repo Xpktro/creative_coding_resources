@@ -25,6 +25,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 ### <a name="graphics">Gráficos</a>
 
+* [`10 PRINT CHR$(205.5+RND(1)); : GOTO 10`](http://nickm.com/trope_tank/10_PRINT_121114.pdf) - Libro que explora el origen del movimiento del arte asistido por computador en sus inicios y el propósito de la existencia del software en general.
 * [Context Free](http://www.contextfreeart.org/) - Herramienta de generación de gráficos en base a un lenguaje propio con forma de gramática libre de contexto.
 * [Creative Scala](http://underscore.io/training/courses/creative-scala/) - Libro de introducción a Scala y la programación funcional a través del uso de Doodle, una biblioteca de gráficos.
 * [Deep Dream](http://ryankennedy.io/running-the-deep-dream/) - Artículo donde se explica cómo descargar y utillizar una máquina virtual de Docker para probar el algoritmo Deep Dream de interpolación de imágenes.
