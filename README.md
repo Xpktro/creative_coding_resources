@@ -111,6 +111,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 ### <a name="livecoding">Live Coding</a>
 
+* [Klangmeister](http://ctford.github.io/klangmeister/) - Un entorno de livecoding de música para el navegador a través de un DSL tipo LISP.
 * [LigthTable](http://lighttable.com/) - Un editor de código con capacidades de edición en vivo.
 * [Pineal](https://github.com/edne/pineal) - Un motor para live coding gráfico y sonoro, escrito en hy, un lisp-dialecto de Python.
 * [TOPLAP](http://toplap.org/) - Comunidad y directorio de proyectos de live coding.
