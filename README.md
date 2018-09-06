@@ -36,7 +36,8 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Printing Code](http://printingcode.runemadsen.com/examples/) - Apuntes de un curso de gráficos por computador mediante el uso de Rune.
 * [Raphaël](http://raphaeljs.com/) - Biblioteca de Javascript para el dibujo de imágenes vectoriales.
 * [Rune.js](http://runemadsen.github.io/rune.js/) - Una biblioteca de javascript para sistemas de dibujo vectorial en el navegador.
-* [The Nature of Code](http://natureofcode.com/) - Libro gratuito de Daniel Shiffman que muestra cómo se pueden replicar estructuras y comportamientos encontrados en la naturaleza a través de la programación. 
+* [The Nature of Code](http://natureofcode.com/) - Libro gratuito de Daniel Shiffman que muestra cómo se pueden replicar estructuras y comportamientos encontrados en la naturaleza a través de la programación.
+* [GLITCH GIF VJ](https://azopcorp.com/glitchgifvj/) - Mezcladora de video (sólo GIFs) con capacidades MIDI y multitud de efectos incorporados.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -49,6 +50,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Bytebeats](https://www.youtube.com/watch?v=vCEUyx-SxPw) - Charla en video sobre el principio detrás de los bytebeats: pequeños programas cuya salida, al ser redirigida a un dispositivo de sonido, pueden producir melodías muy interesantes.
 * [ChuCK](http://chuck.cs.princeton.edu/) - Lenguaje de programación orientado al análisis, síntesis y generación de sonido en tiempo real.
 * [Csound](http://csound.github.io/) - Una herramienta para la computación de música y sonido. 
+* [Audiokit](https://audiokit.io/) - Herramientas para la creación de sintetizadores virtuales con Swift.
 * [Composición musical con redes neuronales recurrentes](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks) - Un interesante artículo sobre la generación de música a partir de una red neuronal.
 * [Generador de bytebeats](https://wurstcaptures.untergrund.net/music/) - Una herramienta online para probar y crear bytebeats.
 * [Haciendo música en el navegador](http://www.keithmcmillen.com/category/blog/tutorials/making-music-in-the-browser/) - Una serie de artículos de Keith McMillen sobre el uso del Web Audio API en aplicaciones musicales.
@@ -58,6 +60,8 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [SuperCollider](http://supercollider.github.io/) -  Un lenguaje de programación para síntesis de audio en tiempo real y composición algorítmica.
 * [Tidal](http://tidal.lurk.org/) - Un lenguaje para producción de música algorítmica basado en Haskell, puede usarse como controlador MIDI y tiene un modo de sincronización por red para performances distribuidas.
 * [timbre.js](http://mohayonao.github.io/timbre.js/) - Un framework moderno de análisis y síntesis de audio para Javascript basado en el uso del Web Audio API (e incluye un fallback de Flash).
+* [VCV Rack](https://vcvrack.com/) - Plataforma libre de simulación de módulos de síntesis de sonido analógica.
+* [Web MIDI Synth](http://xpktro.github.io/web_midi_synth) - Implementación básica de un sintetizador virtual monofónico que responde a MIDI usando el Web Audio API.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -71,6 +75,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [openFrameworks](http://openframeworks.cc/) - Un kit de herramientas en C++  para programación creativa.
 * [Processing](https://processing.org/) - Un lenguaje y entorno de desarrollo creativo diseñado en el contexto de las artes visuales.
 * [Pure Data](https://puredata.info/) - Un lenguaje de programación visual para multimedios, aceptado como una alternativa libre de MAX/MSP.
+* [Purr Data](https://agraef.github.io/purr-data/) - Distribución de Pure Data repleta de adiciones y mejoras respecto a la original.
 * [PyGame](http://www.pygame.org/) - Una biblioteca para la programación de juegos y experiencias multimedia en general sobre Python.
 * [toxiclibs](http://toxiclibs.org/) - Una colección de bibliotecas de tareas de diseño para Java y Processing.
 * [Unity3D](http://unity3d.com/) - Entorno de desarrollo profesional para la creación de videojuegos.
@@ -116,6 +121,8 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Pineal](https://github.com/edne/pineal) - Un motor para live coding gráfico y sonoro, escrito en hy, un lisp-dialecto de Python.
 * [TOPLAP](http://toplap.org/) - Comunidad y directorio de proyectos de live coding.
 * [LiveCodeLab](http://livecodelab.net/play/) - Un entorno de live coding potenciado por WebGL que puede usarse desde el navegador.
+* [Gibber](https://gibber.cc/) - Entorno de livecoding multimedia escrito en JavaScript.
+* [Gibberwocky](http://gibberwocky.cc/) - Entorno de livecoding orientado a la secuenciación MIDI/Live/Max/MSP.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -144,6 +151,7 @@ interés de programación creativa y proyectos artísticos.
 * [Just a Reflektor](http://www.justareflektor.com/) - Video interactivo de Arcade Fire (se necesita un computador y un dispositivo móvil). Hace uso extensivo de WebGL, WebSockets y diversas APIs multimedia.
 * [Polygonal Logo Generator](http://xpktro.github.io/polygonal_logo_generator/) - Un demo de paper.js sobre el dibujo de polígonos aleatorios en una serie de puntos. Se puede consultar el código fuente [aquí](https://github.com/Xpktro/polygonal_logo_generator).
 * [Tutorial de ML/NLP con Python](http://www.thoughtly.co/blog/category/mlnlp-tutorial-series/) - Una serie de posts por Thoughtly con fundamentos de Machine Learning a través del Procesamiento del Lenguaje Natural usando Python.
+* [live:js](http://livejs.network/) - Un colectivo de artistas audiovisuales que utilizan JavaScript para realizar su trabajo.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
