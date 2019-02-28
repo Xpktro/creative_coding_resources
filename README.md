@@ -38,6 +38,9 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [Rune.js](http://runemadsen.github.io/rune.js/) - Una biblioteca de javascript para sistemas de dibujo vectorial en el navegador.
 * [The Nature of Code](http://natureofcode.com/) - Libro gratuito de Daniel Shiffman que muestra cómo se pueden replicar estructuras y comportamientos encontrados en la naturaleza a través de la programación.
 * [GLITCH GIF VJ](https://azopcorp.com/glitchgifvj/) - Mezcladora de video (sólo GIFs) con capacidades MIDI y multitud de efectos incorporados.
+* [Hydra](https://github.com/ojack/hydra) - Biblioteca y entorno de livecoding para visualizaciones en tiempo real, inspirado en la síntesis analógica de video.
+* [Visor](http://www.visor.live/) - Entorno integrado de livecoding para visualizaciones que usa una versión de Processing para Ruby. Incluye características de análisis de audio y capacidad de control via MIDI.
+* [Pts](https://github.com/williamngan/pts) - Biblioteca de programación de gráficos para Javascript enfocada a la programación creativa.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -62,6 +65,9 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [timbre.js](http://mohayonao.github.io/timbre.js/) - Un framework moderno de análisis y síntesis de audio para Javascript basado en el uso del Web Audio API (e incluye un fallback de Flash).
 * [VCV Rack](https://vcvrack.com/) - Plataforma libre de simulación de módulos de síntesis de sonido analógica.
 * [Web MIDI Synth](http://xpktro.github.io/web_midi_synth) - Implementación básica de un sintetizador virtual monofónico que responde a MIDI usando el Web Audio API.
+* [ORCΛ](https://github.com/hundredrabbits/Orca) - Entorno de livecoding para secuenciar MIDI, OSC y otros con una particular flujo de trabajo inspirado en el juego de la vida de Conway.
+* [rampcode](https://github.com/gabochi/rampcode) - Lenguaje/herramienta para livecoding de audio con el estilo de uso de los bytebeats.
+* [DIN](https://dinisnoise.org/) - Din Is Noise es un entorno de síntesis digital que puede ser controlado usando midi y está enfocado en la performance en vivo usando únicamente el computador.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
