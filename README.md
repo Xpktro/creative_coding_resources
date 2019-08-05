@@ -75,7 +75,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 
 ### <a name="multimedia">Multimedia</a>
 
-* [(fluxus)](http://www.pawfal.org/fluxus/) - Un entorno para prototipado rápido, Fluxus is a rapid prototyping, playing and learning environment for 3D graphics, sound and games. Extends the Racket language with graphical commands and can be used within it’s own livecoding environment
+* [(fluxus)](http://www.pawfal.org/fluxus/) - Un entorno para prototipado rápido, y entorno de aprendizaje para gráficos 3D, sonidoo y juegos. Extiende el lenguaje Racket con comandos gráficos y puede ser usado con su propio entorno de livecoding.
 * [Cinder](https://libcinder.org/) - Una biblioteca con calidad profesional de programación creativa para C++.
 * [MAX/MSP](https://cycling74.com/products/max/) - Un lenguaje de programación visual diseñado para realizar trabajos multimedios.
 * [openFrameworks](http://openframeworks.cc/) - Un kit de herramientas en C++  para programación creativa.
@@ -86,6 +86,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [toxiclibs](http://toxiclibs.org/) - Una colección de bibliotecas de tareas de diseño para Java y Processing.
 * [Unity3D](http://unity3d.com/) - Entorno de desarrollo profesional para la creación de videojuegos.
 * [vvvv](http://vvvv.org/) - Un entorno de programación visual orientado al trabajo multimedios de diversidad y carga intensivas.
+* [Ronin](https://github.com/hundredrabbits/Ronin) - Entorno de programación de gráficos que se escribe en un lenguaje similar a LISP.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -115,6 +116,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - Una motor de conversaciones basado en Machine Learning e independiente del idioma.
 * [MicroPython](https://micropython.org/) - Implementación de Python3 diseñada para micro-controladores.
 * [Raspberry-Pi](https://www.raspberrypi.org/) - Computador en miniatura con salidas y entradas digitales para la realización de proyectos de hardware.
+* [Bela](https://bela.io/) - Tarjeta de prototipado y desarrollo de aplicaciones de audio.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -129,6 +131,7 @@ El siguiente listado recoge una serie de enlaces de interés para todos aquellos
 * [LiveCodeLab](http://livecodelab.net/play/) - Un entorno de live coding potenciado por WebGL que puede usarse desde el navegador.
 * [Gibber](https://gibber.cc/) - Entorno de livecoding multimedia escrito en JavaScript.
 * [Gibberwocky](http://gibberwocky.cc/) - Entorno de livecoding orientado a la secuenciación MIDI/Live/Max/MSP.
+* [Panaeolus](https://github.com/panaeolus/panaeolus) - Entorno de livecoding que usa JACK y CSound como motor de sonido. Escrito en Clojure; viene empaquetado con su editor y todo lo necesario para empezar.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
@@ -158,6 +161,8 @@ interés de programación creativa y proyectos artísticos.
 * [Polygonal Logo Generator](http://xpktro.github.io/polygonal_logo_generator/) - Un demo de paper.js sobre el dibujo de polígonos aleatorios en una serie de puntos. Se puede consultar el código fuente [aquí](https://github.com/Xpktro/polygonal_logo_generator).
 * [Tutorial de ML/NLP con Python](http://www.thoughtly.co/blog/category/mlnlp-tutorial-series/) - Una serie de posts por Thoughtly con fundamentos de Machine Learning a través del Procesamiento del Lenguaje Natural usando Python.
 * [live:js](http://livejs.network/) - Un colectivo de artistas audiovisuales que utilizan JavaScript para realizar su trabajo.
+* [TOPLAP Chat](https://chat.toplap.org) - Espacio de comunicación asíncrona de los usuarios de la comunidad TOPLAP.
+* [llllllll](https://llllllll.co/) - También conocido como _lines_, es un foro de personas interesadas en el uso y difusión del arte potenciado por la tecnología.
 
 
 **[[⬆]](#toc) regresar a la Tabla de Contenidos**
